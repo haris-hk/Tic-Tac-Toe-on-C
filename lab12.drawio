@@ -82,7 +82,7 @@
         <mxCell id="dRQkk6ogomNW4FB7e7qN-28" value="- string currentPlayerName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dRQkk6ogomNW4FB7e7qN-26" vertex="1">
           <mxGeometry y="52" width="370" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dRQkk6ogomNW4FB7e7qN-29" value="+ getPlayerMove(Board&amp;amp; board, int&amp;nbsp; cuurentPlayer) : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dRQkk6ogomNW4FB7e7qN-26" vertex="1">
+        <mxCell id="dRQkk6ogomNW4FB7e7qN-29" value="+ getPlayerMove(Board&amp;amp; board, char Symbol) : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dRQkk6ogomNW4FB7e7qN-26" vertex="1">
           <mxGeometry y="78" width="370" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dRQkk6ogomNW4FB7e7qN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.026;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamond;endFill=1;endSize=18;" parent="1" source="dRQkk6ogomNW4FB7e7qN-9" target="dRQkk6ogomNW4FB7e7qN-1" edge="1">
